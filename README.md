@@ -1,2 +1,2 @@
-# ddos-tool
-Run .cxerys with perl .cxerys in folder cxerys
+# Cxerys-DoS
+run with perl .cxerys in folder Cxerys-DoS
